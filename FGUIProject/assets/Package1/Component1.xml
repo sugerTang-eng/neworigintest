@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" bgColorEnabled="true">
+  <displayList>
+    <component id="n0_wps8" name="n0" src="wps81" fileName="Button1.xml" xy="217,272"/>
+  </displayList>
+</component>
