@@ -3,7 +3,7 @@
   <resources>
     <component id="i9260" name="Component1.xml" path="/" exported="true"/>
     <component id="wps81" name="Button1.xml" path="/" exported="true"/>
-    <component id="h7w12" name="Button2.xml" path="/"/>
+    <component id="hcb72" name="Button2.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
