@@ -1,4 +1,4 @@
-feat新功能
+改新功能
 fixBUG修复
 docs文档变更
 style文字格式修改
