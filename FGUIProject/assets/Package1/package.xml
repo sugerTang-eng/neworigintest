@@ -4,6 +4,10 @@
     <component id="i9260" name="Component1.xml" path="/" exported="true"/>
     <component id="wps81" name="Button1.xml" path="/" exported="true"/>
     <component id="hcb72" name="Button2.xml" path="/"/>
+    <component id="azfy3" name="Component2.xml" path="/"/>
+    <image id="azfy4" name="fram.png" path="/img/"/>
+    <image id="azfy5" name="button.png" path="/img/"/>
+    <component id="azfy6" name="Button3.xml" path="/img/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
